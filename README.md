@@ -1,10 +1,8 @@
-# Modo Privilegiado
+# Modo Privilegiado: um jogo de mundo aberto sobre arquitetura de computadores
 
 ![Cartaz do jogo](cartaz.png)
 
 > **Em breve.** Ainda não tem jogo aqui, só a ideia e o plano. Vou atualizando conforme as missões ficarem prontas.
-
-Um jogo de aprendizado em arquitetura de computadores, com clima de jogo de investigação em mundo aberto.
 
 ## A missão
 
