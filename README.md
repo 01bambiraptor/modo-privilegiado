@@ -1,4 +1,4 @@
-# Modo Privilegiado: um jogo de mundo aberto sobre arquitetura de computadores
+# Modo Privilegiado
 
 ![Cartaz do jogo](cartaz.png)
 
