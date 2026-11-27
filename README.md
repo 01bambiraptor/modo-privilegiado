@@ -6,9 +6,11 @@
 
 ## A missão
 
-Uma rede de fraudes escondeu milhões de transações dentro de um sistema financeiro. Você é o agente que vai auditar tudo. O problema: o computador da investigação mal liga.
+Uma cidade movida a dados: milhões de transações, registros e documentos circulando a cada segundo. Alguém precisa descobrir o que está acontecendo, e **você foi chamado**.
 
-Pra ler a capivara inteira, você precisa de acesso total à máquina, o modo privilegiado. Só que privilégio não vem de graça: você começa em modo usuário e vai subindo a cada missão.
+Mas antes de investigar qualquer coisa, a pergunta é outra: **o seu computador dá conta?**
+
+Você recebeu a capivara completa da investigação: milhões de registros. Pra ler tudo, você precisa de acesso total à máquina, o modo privilegiado. Só que privilégio não vem de graça: você começa em modo usuário e vai subindo a cada missão.
 
 A pergunta é uma só:
 
@@ -27,15 +29,15 @@ Montando o computador por dentro, peça por peça, num processador MIPS, você d
 
 | termo | significado |
 |---|---|
-| modo privilegiado | acesso total à máquina |
+| compliance | respeitar as regras |
 | auditoria | conferir se está tudo certo |
-| lastro | garantia real dos dados |
+| modo privilegiado | acesso total ao processador |
 | puxar a capivara | carregar todo o histórico |
 | gargalo | a peça mais fraca |
 
 ## História fictícia
 
-Personagens, empresas e casos são inventados. Qualquer semelhança com a realidade é coincidência.
+Personagens, cenas e investigação são inventados. Qualquer semelhança com pessoas ou fatos reais é coincidência.
 
 ---
 
